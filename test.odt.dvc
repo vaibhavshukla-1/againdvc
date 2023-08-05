@@ -1,0 +1,5 @@
+outs:
+- md5: a1995d4acfc19a9cdd180e661eab0358
+  size: 8551
+  hash: md5
+  path: test.odt
